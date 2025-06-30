@@ -74,9 +74,11 @@
 
 ## Day 6: 토요일 
 * 전체 요약
-* 평가 및 설문조사 
+* 평가 및 설문조사
+* 제주대학교 RISE 사업 홍보
 
 ## Places
-* Plant827, https://naver.me/5BcZD0nt
+* Plant827, https://naver.me/5BcZD0nt 
 * 제대가는길, https://naver.me/Grm3eGb1
+* 
 
