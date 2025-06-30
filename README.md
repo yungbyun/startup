@@ -75,3 +75,8 @@
 ## Day 6: 토요일 
 * 전체 요약
 * 평가 및 설문조사 
+
+## Places
+* https://naver.me/5BcZD0nt
+* https://naver.me/Grm3eGb1
+* 
