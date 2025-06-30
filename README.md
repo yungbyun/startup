@@ -77,6 +77,6 @@
 * 평가 및 설문조사 
 
 ## Places
-* https://naver.me/5BcZD0nt
-* https://naver.me/Grm3eGb1
-* 
+* Plant827, https://naver.me/5BcZD0nt
+* 제대가는길, https://naver.me/Grm3eGb1
+
