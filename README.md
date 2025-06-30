@@ -81,5 +81,6 @@
 * Plant827, https://naver.me/5BcZD0nt 
 * 제대가는길, https://naver.me/Grm3eGb1
 * 까페 편린(용눈이, 다랑쉬 오름), https://naver.me/GtUZ4cUC
-* 웨스트비치(곽지해수용장, 한담해변), https://naver.me/5neBNCD2
+* 웨스트비치(곽지해수욕장), https://naver.me/5neBNCD2
+* 애월더선셋, https://naver.me/IgJGNCvw
 
