@@ -84,3 +84,6 @@
 * 웨스트비치(곽지해수욕장), https://naver.me/5neBNCD2
 * 애월더선셋, https://naver.me/IgJGNCvw
 
+## ETC
+* https://jedaero.jejunu.ac.kr/Platform/cmm/notice.do
+* https://docs.google.com/document/d/1AmxTHSIwmXS44qg6kfXDIo6VzRy1OMCIIlhvzyOf_DY/edit?tab=t.0#heading=h.6yqw4b1mxc0i
