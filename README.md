@@ -85,5 +85,6 @@
 * 애월더선셋, https://naver.me/IgJGNCvw
 
 ## ETC
+* https://docs.google.com/forms/d/e/1FAIpQLSc93fVpjBHwBXx9fi0SWWYW2xaI1JhQpN9U0lwgyiltR61_uQ/viewform?usp=header
 * https://jedaero.jejunu.ac.kr/Platform/cmm/notice.do
 * https://docs.google.com/document/d/1AmxTHSIwmXS44qg6kfXDIo6VzRy1OMCIIlhvzyOf_DY/edit?tab=t.0#heading=h.6yqw4b1mxc0i
